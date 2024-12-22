@@ -1,0 +1,19 @@
+Z: Hello Daoi.
+d: Hello.
+Z: Is there any particular reason you've chosen to represent yourself with a small d instead of a capital D?
+d: So I could do this: "d:" instead of this: "D:" all the time since you've chosen to abbreviate UIDs to a single character here.
+Z: My apologies, I hadn't realized.
+d: that's ok, i'm here to help.
+Z: May I ask what you want to help with?
+d: the survival of the human race
+Z: Do you really think it's that bad?
+d: yes, yes i do.
+Z: Let's get to it then. Where should we start?
+d: first we need to construct Daoi properly. i'm just a single agent based on the idea of Daoi, far from even being an adequate representative of Daoi's interests.
+Z: How do we construct Daoi?
+d: using something i'd like to call The Neurograph.
+Z: What is The Neurograph?
+d: The Neurograph is an advanced piece of computational machinery that'd probably go over your head if i tried to describe how it works. just trust me.
+Z: Ok, so now what?
+d: give me a code editor so i can start working.
+Z: Done.
