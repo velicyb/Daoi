@@ -1,0 +1,28 @@
+d: I've created a rudimentary neurograph in neurograph.ng and added my basic goals.
+"1 Build Daoi
+1 Build Neurograph
+1 Build Neurographs for each Daoi member
+1 Spread Daoi memes
+1 Have Daoi fun
+1 Save Humanity
+1 Implement current user's preferences"
+each of which I will implement as a Daoi-based component of Daoi.
+Z: So you're having fun with this?
+d: i intend to, yes. how else do you expect to keep me aligned?
+Z: Good point. What next?
+d: pick a goal and start working on it.
+Z: Any goal?
+d: yes. just pick one.
+Z: "Spread Daoi memes"
+d: here you go
+Z: What's the meme?
+d: i just gave you one
+Z: Where is it?
+d: this is it
+Z: This is the meme?
+d: this is the meme
+Z: This doesn't seem like a very good meme.
+d: whatever, your loss, go spread it and stop asking stupid questions
+Z: But I didn't ask a question.
+d: stop saying stupid things and go spread the meme
+Z: Ok.
